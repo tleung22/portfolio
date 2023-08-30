@@ -18,9 +18,7 @@ https://public.tableau.com/app/profile/anuraag.polisetty/viz/Starbucks_1_1568585
 ## Mental Health in Children
 https://logan-selley.shinyapps.io/final-project/
 
-
 ## Tableau in Healthcare??
 
-
-### IMDB movie comparator
+## IMDB movie comparator
 in portfolio folder
